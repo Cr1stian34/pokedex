@@ -32,9 +32,9 @@ const Home = () => {
             <footer className="footerHome relative">
                 <div className="w-[100%] h-[70%] bg-[#DD1A1A]"></div>
                 <div className="w-[100%] h-[30%] bg-[#0C0C0C]"></div>
-                <div className="absolute top-[50px] w-[80px] left-[45%]">
+                <div className="absolute top-[41%] w-[70px] left-[45%]">
                     <img src="/eclipse.png" alt="" />
-                    <img className="absolute top-[20px] left-5 w-[40px]" src="/eclipse2.png" alt="" />
+                    <img className="absolute top-[15px] left-[15px] w-[40px]" src="/eclipse2.png" alt="" />
                 </div>
             </footer>
         </main>

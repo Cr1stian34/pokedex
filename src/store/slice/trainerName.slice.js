@@ -1,6 +1,6 @@
 import { createSlice } from "@reduxjs/toolkit";
 
-const trainerNameSlice = createSlice({
+const trainerNameSlice = createSlice({ 
     name: "trainerName",
     initialState: "",
     reducers: {
