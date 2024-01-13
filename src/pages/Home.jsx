@@ -13,7 +13,7 @@ const Home = () => {
         navigate("/pokedex");
     }
     return (
-        <main className="mainHome bg-[#D3D3D3]">
+        <main className="mainHome bg-[#fff]">
             <section className="max-w-[500px] h-[80vh] homePokedex text-center grid justify-center items-center">
                 <div className="grid gap-5 mt-[3rem]">
                     <div>

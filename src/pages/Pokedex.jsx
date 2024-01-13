@@ -67,7 +67,7 @@ const Pokedex = () => {
     }
   }, [currenType])
 
-  // console.log(pokemons)
+  console.log(pokemons)
   return (
     <main className="bg-[#cccccc] relative w-[100%] mainPokedex pb-10">
       <header className="headerPokedex">
